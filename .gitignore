@@ -1,0 +1,7 @@
+.idea
+.idea/*
+.terraform
+.terraform.lock.hcl
+*.tfstate
+*.tfstate.backup
+Terraform-labs.iml
